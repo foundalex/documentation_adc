@@ -1,0 +1,3 @@
+
+1. В папке old_calibration_algorithm находится алгоритм калибровки, описанный в статье Hu.M, Yi.P, Digital Calibration for Gain, Time Skew, and Bandwidth Mismatch in Under-Sampling Time-Interleaved System 
+2. В папке new_calibration_algorithm находится алгоритм калибровки, описанный в статье Salib.A, Flanagan.M, Cardiff.B, A High-Precision Time Skew Estimation and Correction Technique for Time-Interleaved ADCs
